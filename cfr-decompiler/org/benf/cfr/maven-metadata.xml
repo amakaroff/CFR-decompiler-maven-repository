@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <groupId>org.benf.cfr</groupId>
+    <artifactId>cfr-decompiler</artifactId>
+    <version>0.132</version>
+    <versioning>
+        <versions>
+            <version>0.132</version>
+        </versions>
+        <lastUpdated>1534500375142</lastUpdated>
+    </versioning>
+</metadata>
